@@ -2,7 +2,7 @@
 
 My name is Marccus Zavadzki from Brazil (🇧🇷). I've been working as .NET  Developer since 2018 and currently. I'm working with .NET, C# and others languages.
 
-Passionate about technology, besides studying I like to play football ⚽, and have that barbecue 🥩
+Passionate about technology, besides studying I like to play soccer ⚽, and have that barbecue 🥩
 
 <br />
 
