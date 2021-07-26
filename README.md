@@ -6,9 +6,10 @@ Passionate about technology, besides studying I like to play soccer ⚽, and hav
 
 <br />
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zavadzki72&show_icons=true" alt="zavadzki72"/>
-</p>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zavadzki72&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zavadzki72&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 Would you like to find me?
 
