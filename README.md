@@ -11,6 +11,8 @@ Passionate about technology, besides studying I like to play soccer ⚽, and hav
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zavadzki72&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
+<br />
+
 Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marccus-zava)](https://www.linkedin.com/in/marccus-zava)
