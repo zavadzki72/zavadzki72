@@ -16,3 +16,4 @@ Passionate about technology, besides studying I like to play soccer ⚽, and hav
 Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marccus-zava)](https://www.linkedin.com/in/marccus-zava)
+<a href="https://www.marccusz.com"><img src="https://img.shields.io/badge/-marccusz.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
