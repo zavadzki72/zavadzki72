@@ -13,11 +13,6 @@ Passionate about technology, besides studying I like to play soccer ⚽, and hav
 
 <br />
 
-<div>
-  <a href="https://github.com/zavadzki72">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=zavadzki72&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zavadzki72&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="ZAVADZKI72-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="ZAVADZKI72-NetCore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
