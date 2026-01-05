@@ -1,5 +1,5 @@
 <p align="center">
-<img src = "https://readme-typing-svg.herokuapp.com?font=Spaces&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Marccus+Zavadzki;.NET+Developer;Passionate+about+technology" />
+<img src = "https://readme-typing-svg.herokuapp.com?font=Spaces&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Marccus+Zavadzki;software+Architect;Passionate+about+technology" />
 </p>
 
 ##
@@ -8,7 +8,7 @@
 
 ### Hi there! 😁 
 
-My name is Marccus Zavadzki from Brazil (🇧🇷). I've been working as .NET  Developer since 2018 and currently. I'm working with .NET, C# and others languages.
+My name is Marccus Zavadzki from Brazil (🇧🇷). I've been working as .NET  Developer since 2018 and currently.
 Passionate about technology, besides studying I like to play soccer ⚽, and have that barbecue 🥩
 
 <br />
